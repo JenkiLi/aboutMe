@@ -10,5 +10,5 @@
 
 ---
 
-[Сертификат о прохождении курса](https://github.com/JenkiLi/aboutMe/raw/Course_completion_certificate/Software_tester_cetificate.jpg)
+[Сертификат о прохождении курса](https://github.com/JenkiLi/aboutMe/blob/main/Course_completion_certificate/Software_tester_cetificate.jpg)
 
