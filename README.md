@@ -6,5 +6,8 @@
 
 ---
 
-[Сертификат о прохождении курса](https://github.com/JenkiLi/aboutMe/blob/main/Course_completion_certificate/Software_tester_cetificate.jpg)
+[Сертификат о прохождении курса тестировщика ПО](https://github.com/JenkiLi/aboutMe/blob/main/Course_completion_certificate/Software_tester_cetificate.jpg)
 
+---
+
+[Сертификат о прохождении курса по тестированию REST API](https://github.com/JenkiLi/aboutMe/blob/main/Course_completion_certificate/Course_REST_API.png)
