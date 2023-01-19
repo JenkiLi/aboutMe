@@ -2,7 +2,7 @@
 
 ---
 
-[HTML страница о себе](https://jenkili.github.io/Gallyamov_CV/
+[HTML страница о себе](https://jenkili.github.io/Gallyamov_CV/)
 
 ---
 
