@@ -11,3 +11,7 @@
 ---
 
 [Сертификат о прохождении курса по тестированию REST API](https://github.com/JenkiLi/aboutMe/blob/main/Course_completion_certificate/Course_REST_API.jpg)
+
+---
+
+[Сертификат об изучении SQL](https://github.com/JenkiLi/aboutMe/blob/main/Course_completion_certificate/SQL_certificate.jpg)
